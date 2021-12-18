@@ -1,0 +1,44 @@
+body {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../images/assets/Mountain.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+.center {
+    text-align: center;
+  }
+
+
+
+.bold {
+    font-weight: bold;
+}
+
+
+.favcolor {
+    background-color:rgb(192, 91, 66);
+    opacity: 85%;
+}
+
+
+.buttoncolor {
+    background-color:rgb(192, 91, 66);
+    border-color:rgb(192, 91, 66);
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 4%;
+  }
+
+.divextra {
+    height: 100px;
+    width: 100%
+}
+
+.padding {
+    padding-bottom: 50px;
+}
